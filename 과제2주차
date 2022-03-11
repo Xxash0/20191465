@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+</style>
+</head>
+<body>
+    <h1 style="font-family:verdana;"> Kim Jae Young - 20191465 </h1>
+<p>
+안녕하십니까. 20191465 컴퓨터공학과 2학년 김재영 입니다. 저는 패션에 관심이 많은 학생이며 미래에 알고리즘을 통한 편한 쇼핑을 만들고 싶습니다.
+</p>
+<p>
+Hello. 20191465 I am Jaeyoung Kim, a sophomore in the Department of Computer Science and Engineering. I am a student with a lot of interest in fashion, and I want to create comfortable shopping through algorithms in the future.
+</p>
+<p>
+こんにちは。 20191465コンピュータ工学科の2年生キム・ジェヨンです。私はファッションに興味を持っている学生であり、将来的にアルゴリズムを通じた快適なショッピングを作りたいと思います.    
+</p>
+<p>
+你好。 20191465 我是Jaeyoung Kim，计算机科学与工程系的大二学生。我是一个对时尚很感兴趣的学生，我想在未来通过算法创造舒适的购物。
+</p>
+
+
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+</style>
+</head>
+<body>
+
+<h1 style="font-family:verdana;">Geographic Origin of Stanford Undergrads</h1>
+
+<table style="width:100%">
+
+
+  <tr>
+    <th>Geographic Origin</th>
+    <th>Number of Students</th> 
+  </tr>
+  <tr>
+    <td>California</td>
+    <td>2,943</td>
+  </tr>
+  <tr>
+    <td>Other US</td>
+    <td>3,447</td>
+  </tr>
+  <tr>
+    <td>Asia</td>
+    <td>264</td>
+  </tr>
+   <tr>
+    <td>The Americas</td>
+    <td>83</td>
+  </tr>
+   <tr>
+    <td>Europe</td>
+    <td>69</td>
+  </tr>
+   <tr>
+    <td>Africa</td>
+    <td>44</td>
+  </tr>
+   <tr>
+    <td>Middle East and North Africa</td>
+    <td>22</td>
+  </tr>
+   <tr>
+    <td>Pacific Basin</td>
+    <td>6</td>
+  </tr>
+  
+</table>
+<p>Source:Stanford Facts Website <p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 600px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>윤석열 관련 기사</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>윤석열 당선인, 대변인에 김은혜 임명</h2>
+    <p>윤석열 대통령 당선인이 비서실장에 국민의힘 장제원 의원을 임명한 데 이어 김은혜 의원을 당선인 대변인에 임명했습니다.
+
+장제원 비서실장은 오늘(11일), 언론 공지를 통해 김은혜 의원의 당선인 대변인 임명 사실을 밝혔습니다.
+
+김 의원은 앞서 선거대책본부에서 공보단장을 맡았으며, 대선 기간 민주당 이재명 후보를 겨냥한 '대장동 의혹' 공격수로도 나섰습니다.
+
+MBC 기자·앵커 출신인 김 의원은 이명박 정부 청와대에서 대변인을 지냈습니다.
+
+윤석열 당선인은 오늘 국민의당 안철수 대표와 오찬 회동을 하며 인수위원회 구성과 주요 인선 등을 논의할 예정입니다.
+
+[출처 : 연합뉴스]</p>
+
+<p>
+    <table style="width:100%">
+
+
+        <tr>
+          <th>Geographic Origin</th>
+          <th>Number of Students</th> 
+        </tr>
+        <tr>
+          <td>California</td>
+          <td>2,943</td>
+        </tr>
+        <tr>
+          <td>Other US</td>
+          <td>3,447</td>
+        </tr>
+        <tr>
+          <td>Asia</td>
+          <td>264</td>
+        </tr>
+         <tr>
+          <td>The Americas</td>
+          <td>83</td>    
+</p>
+
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>윤석열 만난 안철수 "인수위원장? 아직 얘기 안 나눠</h2>
+    <p>윤석열 대통령 당선인과 11일 만난 안철수 국민의당 대표는 "국정 전반 거의 모든 분야에 대한 의견 교환을 했고, 많은 부분이 일치했다"라고 밝혔다. 인수위원회 위원장 제안을 받았느냐는 물음엔 "아직 인사에 대해선 얘길 나누진 않았다"라고 답했다.
+
+안 대표는 이날 오후 서울 여의도 국민의힘 중앙당사 당선인실에서 윤 당선인과 2시간에 걸친 '도시락 회동'을 가졌다. 이후 취재진과 만난 안 대표는 "축하를 드리려고 했는데 (윤 당선인이) 먼저 연락을 줬다. 오늘 같이 도시락 식사를 하면서 국정 전반의 현안에 대한 논의를 하자고 제안을 해줘서 찾아오게 된 것"이라고 말했다.
+
+이어 "굉장히 광범위한 전체적인 방향이라든지, 우리나라가 처해있는 상황이라든지, 우리나라가 현재 복원해야 할 민주주의에 대한 부분이라든지, 경제 문제와 데이터 산업과 같은 부분을 포함해서 전반에 대해서 거의 모든 분야에 대해서 의견 교환을 했다"라며 "많은 부분이 일치했다"라고 설명했다.
+
+'일치한 부분이 구체적으로 무엇이냐'는 물음엔 답하지 않았다. 윤 당선인이 인수위원장직을 제안했다는 소식에 대한 질문엔 "제가 아직 거기에 대해선 이야기를 나눠보지 않았기 때문에 뭐라고 말씀드리긴 힘들다"라고 답한 뒤 자리를 떴다.</p>
+<p>
+이후 대통령 당선인 비서실장으로 지명된 장제원 국민의힘 의원은 취재진에게 "(윤 당선인과 안 대표가) 향후 국정 방향이라든가, 과학 분야, 코로나 관련 보건 분야, 소상공인·자영업자에 대한 손실 보상이 시급한 문제에 대해 어떻게 할 건가 주로 말씀을 나눈 걸로 안다"라며 "윤 당선인께서 데이터나 디지털 플랫폼 정부 구상에 대해 많이 말씀했고, 안 대표도 그 부분에 대해 당선인께서 정확히 알고 계신다고 말했다"라고 전했다.
+[출처 : kbs뉴스]
+</p>
+  </div>
+</div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 1200px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h1 style="color:Tomato;">윤석열 관련 기사</h1>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>윤석열 당선인, 대변인에 김은혜 임명</h2>
+    <p>윤석열 대통령 당선인이 비서실장에 국민의힘 장제원 의원을 임명한 데 이어 김은혜 의원을 당선인 대변인에 임명했습니다.
+
+장제원 비서실장은 오늘(11일), 언론 공지를 통해 김은혜 의원의 당선인 대변인 임명 사실을 밝혔습니다.
+
+김 의원은 앞서 선거대책본부에서 공보단장을 맡았으며, 대선 기간 민주당 이재명 후보를 겨냥한 '대장동 의혹' 공격수로도 나섰습니다.
+
+MBC 기자·앵커 출신인 김 의원은 이명박 정부 청와대에서 대변인을 지냈습니다.
+
+윤석열 당선인은 오늘 국민의당 안철수 대표와 오찬 회동을 하며 인수위원회 구성과 주요 인선 등을 논의할 예정입니다.
+
+[출처 : 연합뉴스]</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>윤석열 만난 안철수 "인수위원장? 아직 얘기 안 나눠</h2>
+    <img src="./w3/IE002955778_STD.jpg" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%">
+    <p>윤석열 대통령 당선인과 11일 만난 안철수 국민의당 대표는 "국정 전반 거의 모든 분야에 대한 의견 교환을 했고, 많은 부분이 일치했다"라고 밝혔다. 인수위원회 위원장 제안을 받았느냐는 물음엔 "아직 인사에 대해선 얘길 나누진 않았다"라고 답했다.
+
+안 대표는 이날 오후 서울 여의도 국민의힘 중앙당사 당선인실에서 윤 당선인과 2시간에 걸친 '도시락 회동'을 가졌다. 이후 취재진과 만난 안 대표는 "축하를 드리려고 했는데 (윤 당선인이) 먼저 연락을 줬다. 오늘 같이 도시락 식사를 하면서 국정 전반의 현안에 대한 논의를 하자고 제안을 해줘서 찾아오게 된 것"이라고 말했다.
+
+이어 "굉장히 광범위한 전체적인 방향이라든지, 우리나라가 처해있는 상황이라든지, 우리나라가 현재 복원해야 할 민주주의에 대한 부분이라든지, 경제 문제와 데이터 산업과 같은 부분을 포함해서 전반에 대해서 거의 모든 분야에 대해서 의견 교환을 했다"라며 "많은 부분이 일치했다"라고 설명했다.
+
+'일치한 부분이 구체적으로 무엇이냐'는 물음엔 답하지 않았다. 윤 당선인이 인수위원장직을 제안했다는 소식에 대한 질문엔 "제가 아직 거기에 대해선 이야기를 나눠보지 않았기 때문에 뭐라고 말씀드리긴 힘들다"라고 답한 뒤 자리를 떴다.</p>
+<p>
+이후 대통령 당선인 비서실장으로 지명된 장제원 국민의힘 의원은 취재진에게 "(윤 당선인과 안 대표가) 향후 국정 방향이라든가, 과학 분야, 코로나 관련 보건 분야, 소상공인·자영업자에 대한 손실 보상이 시급한 문제에 대해 어떻게 할 건가 주로 말씀을 나눈 걸로 안다"라며 "윤 당선인께서 데이터나 디지털 플랫폼 정부 구상에 대해 많이 말씀했고, 안 대표도 그 부분에 대해 당선인께서 정확히 알고 계신다고 말했다"라고 전했다.
+[출처 : kbs뉴스]
+</p>
+  </div>
+</div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+</style>
+</head>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card">
+    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">HOME</a>
+    <a href="#band" class="w3-bar-item w3-button w3-padding-large w3-hide-small">BAND</a>
+    <a href="#tour" class="w3-bar-item w3-button w3-padding-large w3-hide-small">TOUR</a>
+    <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hide-small">CONTACT</a>
+    <div class="w3-dropdown-hover w3-hide-small">
+      <button class="w3-padding-large w3-button" title="More">MORE <i class="fa fa-caret-down"></i></button>     
+      <div class="w3-dropdown-content w3-bar-block w3-card-4">
+        <a href="#" class="w3-bar-item w3-button">Merchandise</a>
+        <a href="#" class="w3-bar-item w3-button">Extras</a>
+        <a href="#" class="w3-bar-item w3-button">Media</a>
+      </div>
+    </div>
+    <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
+  </div>
+</div>
+
+<!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
+<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
+  <a href="#band" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">BAND</a>
+  <a href="#tour" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">TOUR</a>
+  <a href="#contact" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">CONTACT</a>
+  <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">MERCH</a>
+</div>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:2000px;margin-top:46px">
+
+  <!-- Automatic Slideshow Images -->
+  <div class="mySlides w3-display-container w3-center">
+    <img src="./w3images/la.jpg" style="width:100%">
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h3>Los Angeles</h3>
+      <p><b>We had the best time playing at Venice Beach!</b></p>   
+    </div>
+  </div>
+  <div class="mySlides w3-display-container w3-center">
+    <img src="./w3images/ny.jpg" style="width:100%">
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h3>New York</h3>
+      <p><b>The atmosphere in New York is lorem ipsum.</b></p>    
+    </div>
+  </div>
+  <div class="mySlides w3-display-container w3-center">
+    <img src="./w3images/chicago.jpg" style="width:100%">
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h3>Chicago</h3>
+      <p><b>Thank you, Chicago - A night we won't forget.</b></p>    
+    </div>
+  </div>
+
+  <!-- The Band Section -->
+  <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
+    <h2 class="w3-wide">kimjaeyoung - 20191465  </h2>
+    <p class="w3-opacity"><i>homework2</i></p>
+    <p class="w3-opacity"><a href="homework2-1">homework2-1</a></p>
+    <p class="w3-opacity"><a href="homework2-2">homework2-2</a></p>
+    <p class="w3-opacity"><a href="homework2-3">homework2-3</a></p>
+    <p class="w3-opacity"><a href="homework2-4">homework2-4</a></p>
+    <div class="w3-row w3-padding-32">
+      <div class="w3-third">
+        <p>Name</p>
+        <img src="./w3images/bandmember.jpg" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%">
+      </div>
+      <div class="w3-third">
+        <p>Name</p>
+        <img src="./w3images/bandmember.jpg" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%">
+      </div>
+      <div class="w3-third">
+        <p>Name</p>
+        <img src="./w3images/bandmember.jpg" class="w3-round" alt="Random Name" style="width:60%">
+      </div>
+    </div>
+  </div>
+
+  <!-- The Tour Section -->
+  <div class="w3-black" id="tour">
+    <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
+      <h2 class="w3-wide w3-center">TOUR DATES</h2>
+      <p class="w3-opacity w3-center"><i>Remember to book your tickets!</i></p><br>
+
+      <ul class="w3-ul w3-border w3-white w3-text-grey">
+        <li class="w3-padding">September <span class="w3-tag w3-red w3-margin-left">Sold out</span></li>
+        <li class="w3-padding">October <span class="w3-tag w3-red w3-margin-left">Sold out</span></li>
+        <li class="w3-padding">November <span class="w3-badge w3-right w3-margin-right">3</span></li>
+      </ul>
+
+      <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
+        <div class="w3-third w3-margin-bottom">
+          <img src="./w3images/newyork.jpg" alt="New York" style="width:100%" class="w3-hover-opacity">
+          <div class="w3-container w3-white">
+            <p><b>New York</b></p>
+            <p class="w3-opacity">Fri 27 Nov 2016</p>
+            <p>Praesent tincidunt sed tellus ut rutrum sed vitae justo.</p>
+            <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Buy Tickets</button>
+          </div>
+        </div>
+        <div class="w3-third w3-margin-bottom">
+          <img src="./w3images/paris.jpg" alt="Paris" style="width:100%" class="w3-hover-opacity">
+          <div class="w3-container w3-white">
+            <p><b>Paris</b></p>
+            <p class="w3-opacity">Sat 28 Nov 2016</p>
+            <p>Praesent tincidunt sed tellus ut rutrum sed vitae justo.</p>
+            <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Buy Tickets</button>
+          </div>
+        </div>
+        <div class="w3-third w3-margin-bottom">
+          <img src="./w3images/sanfran.jpg" alt="San Francisco" style="width:100%" class="w3-hover-opacity">
+          <div class="w3-container w3-white">
+            <p><b>San Francisco</b></p>
+            <p class="w3-opacity">Sun 29 Nov 2016</p>
+            <p>Praesent tincidunt sed tellus ut rutrum sed vitae justo.</p>
+            <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Buy Tickets</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Ticket Modal -->
+  <div id="ticketModal" class="w3-modal">
+    <div class="w3-modal-content w3-animate-top w3-card-4">
+      <header class="w3-container w3-teal w3-center w3-padding-32"> 
+        <span onclick="document.getElementById('ticketModal').style.display='none'" 
+       class="w3-button w3-teal w3-xlarge w3-display-topright">×</span>
+        <h2 class="w3-wide"><i class="fa fa-suitcase w3-margin-right"></i>Tickets</h2>
+      </header>
+      <div class="w3-container">
+        <p><label><i class="fa fa-shopping-cart"></i> Tickets, $15 per person</label></p>
+        <input class="w3-input w3-border" type="text" placeholder="How many?">
+        <p><label><i class="fa fa-user"></i> Send To</label></p>
+        <input class="w3-input w3-border" type="text" placeholder="Enter email">
+        <button class="w3-button w3-block w3-teal w3-padding-16 w3-section w3-right">PAY <i class="fa fa-check"></i></button>
+        <button class="w3-button w3-red w3-section" onclick="document.getElementById('ticketModal').style.display='none'">Close <i class="fa fa-remove"></i></button>
+        <p class="w3-right">Need <a href="#" class="w3-text-blue">help?</a></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- The Contact Section -->
+  <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="contact">
+    <h2 class="w3-wide w3-center">CONTACT</h2>
+    <p class="w3-opacity w3-center"><i>Fan? Drop a note!</i></p>
+    <div class="w3-row w3-padding-32">
+      <div class="w3-col m6 w3-large w3-margin-bottom">
+        <i class="fa fa-map-marker" style="width:30px"></i> Chicago, US<br>
+        <i class="fa fa-phone" style="width:30px"></i> Phone: +00 151515<br>
+        <i class="fa fa-envelope" style="width:30px"> </i> Email: mail@mail.com<br>
+      </div>
+      <div class="w3-col m6">
+        <form action="/action_page.php" target="_blank">
+          <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
+            <div class="w3-half">
+              <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
+            </div>
+            <div class="w3-half">
+              <input class="w3-input w3-border" type="text" placeholder="Email" required name="Email">
+            </div>
+          </div>
+          <input class="w3-input w3-border" type="text" placeholder="Message" required name="Message">
+          <button class="w3-button w3-black w3-section w3-right" type="submit">SEND</button>
+        </form>
+      </div>
+    </div>
+  </div>
+  
+<!-- End Page Content -->
+</div>
+
+<!-- Image of location/map -->
+<img src="./w3images/map.jpg" class="w3-image w3-greyscale-min" style="width:100%">
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
+  <i class="fa fa-facebook-official w3-hover-opacity"></i>
+  <i class="fa fa-instagram w3-hover-opacity"></i>
+  <i class="fa fa-snapchat w3-hover-opacity"></i>
+  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+  <i class="fa fa-twitter w3-hover-opacity"></i>
+  <i class="fa fa-linkedin w3-hover-opacity"></i>
+  <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+
+<script>
+// Automatic Slideshow - change image every 4 seconds
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 4000);    
+}
+
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+
+// When the user clicks anywhere outside of the modal, close it
+var modal = document.getElementById('ticketModal');
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
+
+</body>
+</html>
