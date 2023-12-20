@@ -1,0 +1,34 @@
+from binance.client import Client
+import time
+
+api_key = 'YOUR_API_KEY'
+api_secret = 'YOUR_API_SECRET'
+client = Client(api_key, api_secret)
+
+# 사용자 입력으로 설정할 변수
+symbol = 'YOUR_SYMBOL'  # 예: 'BTCUSDT'
+buy_price = float(input("Enter your purchase price: "))  # 사용자가 구매한 가격을 입력받음
+
+def get_current_price():
+    ticker = client.get_ticker(symbol=symbol)
+    return float(ticker['lastPrice'])
+
+def place_market_sell_order(quantity):
+    order = client.create_order(
+        symbol=symbol,
+        side='SELL',
+        type='MARKET',
+        quantity=quantity
+    )
+    return order
+
+while True:
+    current_price = get_current_price()
+    roi = current_price / buy_price
+
+    if roi >= 1.04:  # 4%의 ROI에 도달하면 매도 주문을 실행합니다. 필요에 따라 조절하세요.
+        print(f"ROI reached 4%. Selling...")
+        place_market_sell_order(quantity='your_quantity')  # 적절한 양으로 변경하세요
+        break
+
+    time.sleep(1)  # 1초마다 가격을 확인하도록 설정
